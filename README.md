@@ -8,7 +8,7 @@ The project consists of multiple Dart files, organized as follows:
 1. `main.dart`: This serves as the entry point for the application.
 
 ### UI and Logic
-2. `FirstScreen.dart`: This file contains the logic and user interface for the initial screen of the app.
+2. `FirstScreen.dart`: This file contains the logic and user interface for the initial screen of the app and this screen give general calculator logics.
 
 3. `Hide.dart`: Here, you'll find the implementation for the hidden screen, where users can manage their gallery images.
 
